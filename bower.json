@@ -1,0 +1,31 @@
+{
+  "name": "angular-decimal-star-rating",
+  "description": "An simple angular module for creating star decimals",
+  "main": [
+    "angular-rating.js",
+    "angular-rating.css"
+  ],
+  "authors": [
+    "ravisingh47"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "angular",
+    "decimal",
+    "star",
+    "ratings",
+    "average"
+  ],
+  "homepage": "https://github.com/Bizongo/angular-decimal-star-rating",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "angular": "^1.6.1",
+    "components-font-awesome": "^4.7.0"
+  }
+}
