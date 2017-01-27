@@ -1,0 +1,19 @@
+{
+  "name": "coffee-script",
+  "main": [
+    "lib/coffee-script/coffee-script.js"
+  ],
+  "description": "Unfancy JavaScript",
+  "keywords": [
+    "javascript",
+    "language",
+    "coffeescript",
+    "compiler"
+  ],
+  "author": {
+    "name": "Jeremy Ashkenas"
+  },
+  "ignore": [
+    "test"
+  ]
+}
