@@ -1,0 +1,1 @@
+# angular-decimal-star-rating
