@@ -1,0 +1,24 @@
+.rating {
+  margin: 0;
+  padding: 0;
+  display: inline-block;
+}
+
+.rating li {
+  padding: 1px;
+  color: #DeDeDe;
+  font-size: 17px;
+  list-style-type: none;
+  display: inline-block;
+  cursor: pointer;
+}
+
+.rating li.filled {
+  color: #FFD700;
+  background-color: #fff !important;
+}
+
+.rating.readonly li.filled {
+  color: #FFD700;
+  background-color: #fff !important;
+}
